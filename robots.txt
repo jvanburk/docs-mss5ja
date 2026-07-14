@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-voj0ta.menu42.net/sitemap.xml
